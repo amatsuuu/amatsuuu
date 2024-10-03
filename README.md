@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm André Matsumoto</h1>
-<h3 align="center">A Computer Science at ICMC - University of São Paulo</h3>
+<h3 align="center">BSc. Computer Science Student at ICMC - University of São Paulo</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
